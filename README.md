@@ -6,12 +6,17 @@ Exemplos de testes de unidade feitos na linguagem PHP com a extensão PHPUnit.
 
 Significa começar a implementação da classe (unidade) pelo teste, prezando sempre por código enxuto e de qualidade.
 
+<br>
+Isso é também conhecido como o ciclo <b>vermelho-verde-refatora</b>.
+![ciclo](ciclo.png)
+
+
 ## Como fazer?
 
-1. Começe enumerando as funcionalidades da unidade e escreva um teste para cada uma.
+1. Escreva um teste para um única funcionalidade.
 
-1. Execute cada teste assim que estiver pronto.
+1. Veja o teste falhar.
 
-1. Busque sempre a implementação mais simples para o problema.
+1. Busque a implementação mais simples para resolver o problema.
 
-1. Melhore (refatore) seu código quando necessário.
+1. Melhore (refatore) seu código sempre que necessário.
