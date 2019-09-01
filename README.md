@@ -6,7 +6,6 @@ Exemplos de testes de unidade feitos na linguagem PHP com a extensão PHPUnit.
 
 Significa começar a implementação da classe (unidade) pelo teste, prezando sempre por código enxuto e de qualidade.
 
-<br>
 Isso é também conhecido como o ciclo <b>vermelho-verde-refatora</b>.
 ![ciclo](ciclo.png)
 
